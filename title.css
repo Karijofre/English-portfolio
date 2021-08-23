@@ -1,0 +1,14 @@
+
+.title{
+    background-color:var(--purple);
+    align-self: flex-start;
+    color: var(--white);
+    font: var(--headLine5);
+    padding-block-start: 4px;
+    padding-block-end: 4px;
+    padding-inline-start: 8px;
+    padding-inline-end: 8px;
+   /*  box-shadow: -4px 4px 0 var(--white); */
+   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    text-decoration: none;
+}
